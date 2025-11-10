@@ -21,6 +21,7 @@ Sou estudante de Ciência da Computação, atualmente em formação e com foco e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="50"/>
   <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" width="50"/>
 </div>
 
 ##
