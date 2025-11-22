@@ -1,6 +1,6 @@
 ## Olá me chamo Vitor Faria 👋
 
-Sou estudante de Ciência da Computação, atualmente em formação e com foco em desenvolvimento de software. Estou buscando constantemente aprimorar minhas habilidades técnicas e aplicá-las em projetos práticos.
+Sou estudante de Ciência da Computação, atualmente em formação e com foco em Desenvolvimento de Software e IA. Estou buscando constantemente aprimorar minhas habilidades técnicas e aplicá-las em projetos práticos.
 <br>
 <br>
 <div>
