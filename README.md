@@ -1,8 +1,8 @@
 ### Olá, eu sou o Vitor Faria! 👋
 
-Estudante de Ciência da Computação focado em **Desenvolvimento de Software** e **Inteligência Artificial**. Busco ativamente minha primeira oportunidade (Júnior/Estágio) para aplicar conhecimentos práticos.
+Estudante de Ciência da Computação, focado em **Desenvolvimento de Software** e **Automação (DevOps)**. Busco ativamente minha primeira oportunidade (Júnior/Estágio) para aplicar conhecimentos práticos e agregar valor ao ciclo de desenvolvimento.
 
-Minha experiência administrativa prévia me equipa com fortes **Soft Skills** como **organização** e **comunicação**—pronto para contribuir em ciclos de desenvolvimento ágeis.
+Minha experiência anterior me equipa com fortes **Soft Skills** como organização e comunicação. Tenho grande interesse em utilizar **Inteligência Artificial** como ferramenta para otimizar processos de desenvolvimento e *deploy*.
 <br>
 
 ---
@@ -11,7 +11,7 @@ Minha experiência administrativa prévia me equipa com fortes **Soft Skills** c
 | Categoria | Tecnologias |
 | :---: | :---: |
 | **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="50"/> |
-| **Back-end/Plataforma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="50"/> |
+| **Back-end/Plataforma** | ... |
 | **Baixo Nível/Acadêmico** | <img src="https://devicon-website.vercel.app/api/c/original.svg" height="40" width="50"/> |
 | **Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="50"/> <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" width="50"/> |
 
