@@ -2,11 +2,6 @@
 
 Sou estudante de Ciência da Computação, atualmente em formação e com foco em Desenvolvimento de Software e IA. Estou buscando constantemente aprimorar minhas habilidades técnicas e aplicá-las em projetos práticos.
 <br>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/vitor-faria-3865321b5">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" height="180em">
-</div>
     
 ## 
 
