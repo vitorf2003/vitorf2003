@@ -6,6 +6,14 @@ Minha experiência anterior me equipa com fortes **Soft Skills** como organizaç
 <br>
 
 ---
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=vitorf2003&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorf2003&layout=compact"/>
+</div>
+
+---
+
 ### ⚙️ Hard Skills (Stack Principal)
 
 | Categoria | Tecnologias |
@@ -15,7 +23,7 @@ Minha experiência anterior me equipa com fortes **Soft Skills** como organizaç
 | **Baixo Nível/Acadêmico** | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> |
 | **Ferramentas** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" /> |
 
-##
+---
 
 ### Minhas redes sociais:
 <br>
