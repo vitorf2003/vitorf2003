@@ -29,5 +29,5 @@ Minha experiência anterior me equipa com fortes **Soft Skills** como organizaç
 <br>
 <div>
   <a href="https://instagram.com/vitinhufaria"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vitor-faria-3865321b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vitorf2003/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
