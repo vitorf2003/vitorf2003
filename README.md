@@ -9,7 +9,7 @@ Minha experiência anterior me equipa com fortes **Soft Skills** como organizaç
 
 <div>
 <img src="https://github-stats-extended.vercel.app/api?username=vitorf2003&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorf2003&layout=compact"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitorf2003&layout=compact"/>
 </div>
 
 ---
